@@ -14,7 +14,7 @@
 }
 .navlinks {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bolder;
     list-style: none;
