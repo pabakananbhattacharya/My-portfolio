@@ -10,6 +10,7 @@
     background-color: rgb(2, 2, 62);
     display: flex;
     border: 1px solid black;
+    justify-content: space-between;
     
 }
 .navlinks {
